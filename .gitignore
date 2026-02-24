@@ -1,0 +1,16 @@
+# Xcode
+DerivedData/
+build/
+*.xcuserstate
+*.xcuserdata/
+*.xcscmblueprint
+
+# User-specific settings
+*.moved-aside
+*.xccheckout
+*.xcuserstate
+
+*.log
+*.swp
+*.tmp
+*.bak
